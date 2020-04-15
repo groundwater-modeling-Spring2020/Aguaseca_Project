@@ -1,2 +1,4 @@
 # Final Project Repo
-This is your group's space feel free to use it however you would like. Add notes to this readme and add any additional folders you would like. Please just keep the Submission folders the same and use those for submitting your assignments as that is the only part of the repo I will be reviewing. 
+## GitHub Plan
+
+Go Team Aquaseca! We shall be victorious! Dave, Abe, and Rachel will also each keep their own ipython notebooks to edit and commit and share pieces of code in order to complete the assignments.  
